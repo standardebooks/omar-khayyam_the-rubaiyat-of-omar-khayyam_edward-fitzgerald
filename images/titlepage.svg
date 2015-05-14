@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 770">
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:95.24;font-family:Sans" x="325.02" y="128.57">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="325.02" y="128.57">THE RUBÁIYÁT</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:70.18;font-family:Sans;font-weight:normal" x="358.22" y="288.95">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="358.22" y="288.95">OMAR KHAYYÁM</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:46.784;font-family:Sans;font-weight:normal" x="397.67" y="539.3">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="397.67" y="539.3">EDWARD FITZGERALD</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:42.508;font-family:Sans;font-weight:normal" x="593.51" y="472.18">
-		<tspan style="font-family:OFL Sorts Mill Goudy;font-weight:500;font-style:italic" x="593.51" y="472.18">translated by</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:46.784;font-family:Sans;font-weight:normal;font-style:normal" x="474.58" y="719.3">
-		<tspan style="letter-spacing:5;font-family:League Spartan;font-weight:bold" x="474.58" y="719.3">EDMUND DULAC</tspan>
-	</text>
-	<text line-height="100%" style="letter-spacing:0;word-spacing:0;font-size:42.508;font-family:Sans;font-weight:normal;font-style:normal" x="593.53" y="652.18">
-		<tspan style="font-family:OFL Sorts Mill Goudy;font-weight:500;font-style:italic" x="593.53" y="652.18">illustrated by</tspan>
-	</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:93.56725311px;letter-spacing:5px" text-anchor="middle" x="700" y="130">THE RUBÁIYÁT</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:70.17543793px;letter-spacing:5px" text-anchor="middle" x="700" y="290">OMAR KHAYYÁM</text>
+	<text style="fill:#000;font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="470">translated by</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="540">EDWARD FITZGERALD</text>
+	<text style="fill:#000;font-family:OFL Sorts Mill Goudy;font-size:42.5079689px;font-style:italic" text-anchor="middle" x="700" y="650">illustrated by</text>
+	<text style="fill:#000;font-family:League Spartan;font-size:46.78362656px;letter-spacing:5px" text-anchor="middle" x="700" y="720">EDMUND DULAC</text>
 </svg>
