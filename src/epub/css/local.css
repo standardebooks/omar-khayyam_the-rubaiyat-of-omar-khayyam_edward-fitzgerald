@@ -26,6 +26,10 @@ section[epub|type~="conclusion"]{
 	display: none;
 }
 
+p span.i1{
+	text-indent: 0;
+}
+
 article p{
 	display: inline-block;
 	text-align: left;
