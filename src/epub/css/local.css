@@ -12,10 +12,6 @@ section[epub|type~="conclusion"]{
 	text-indent: 0;
 }
 
-*[epub|type~="z3998:poem"] p + p{
-	margin-top: 1em;
-}
-
 *[epub|type~="z3998:poem"] p span{
 	display: block;
 	text-indent: -1em;
@@ -45,8 +41,7 @@ article figure img{
 	max-width: 100%;
 }
 
-section[epub|type~="volume"] > h2,
-section[epub|type~="volume"] > h3{
+section[epub|type~="volume"] > h2{
 	margin: 0; /* for spacing in the following stanza in some readers */
 	page-break-after: always;
 }
