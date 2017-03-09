@@ -12,13 +12,13 @@ section[epub|type~="conclusion"]{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] p span{
+[epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
 	padding-left: 1em;
 }
 
-[epub|type~="z3998:poem"] br{
+[epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
 
