@@ -32,15 +32,6 @@ article p{
 	text-indent: 0;
 }
 
-article figure{
-	page-break-before: always;
-	margin: 0;
-}
-
-article figure img{
-	max-width: 100%;
-}
-
 section[epub|type~="volume"] > h2{
 	margin: 0; /* for spacing in the following stanza in some readers */
 	page-break-after: always;
@@ -61,4 +52,19 @@ abbr.era{
 
 abbr.name{
 	white-space: nowrap;
+}
+
+figure.full-page{
+	margin: 0;
+	max-height: 100%;
+	page-break-before: always;
+	page-break-after: always;
+	page-break-inside: avoid;
+	text-align: center;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
 }
