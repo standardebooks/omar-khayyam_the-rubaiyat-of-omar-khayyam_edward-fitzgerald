@@ -50,10 +50,6 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 figure.full-page{
 	margin: 0;
 	max-height: 100%;
