@@ -26,22 +26,21 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Rubáiyát of Omar Khayyám</dc:title>
 		<meta property="file-as" refines="#title">Rubaiyat of Omar Khayyam, The</meta>
 		<meta property="alternate-script" refines="#title" xml:lang="fa">رباعیات عمر خیام</meta>
 		<dc:subject id="subject-1">Persian poetry -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3154</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2010105564</meta>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Omar Khayyám was a medieval Iranian mathemetician, philosopher, scholar, and poet. He was thought to have composed over 1,000 &lt;i&gt;rubáiyát&lt;/i&gt;, or quatrains, in his lifetime. Many different scholars have translated selections of Khayyám’s quatrains, but Edward FitzGerald’s translation remains the most beloved.&lt;/p&gt;
 			&lt;p&gt;FitzGerald’s translation is interesting in that it isn’t a &lt;em&gt;literal&lt;/em&gt; translation—rather, FitzGerald took significant artistic license in his interpretation. Thus it’s tough to say if we should call this a translation of the &lt;i&gt;Rubáiyát&lt;/i&gt;, or poems by FitzGerald based on or inspired by Khayyám’s quatrains.&lt;/p&gt;
 			&lt;p&gt;Whatever we call it, this translation is a bright and lyrical celebration of the joys and beauties of everyday life. FitzGerald’s work has remained popular for hundreds of years precisely because of its uplifting and wonderous quality.&lt;/p&gt;
 			&lt;p&gt;This ebook edition contains the first, second, and fifth editions of FitzGerald’s translations. The first and second editions differ greatly, while the third and fourth editions are very similar to the fifth. This ebook also contains twenty illustrations by Edmund Dulac.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/35260</dc:source>
 		<meta property="se:word-count">13136</meta>
