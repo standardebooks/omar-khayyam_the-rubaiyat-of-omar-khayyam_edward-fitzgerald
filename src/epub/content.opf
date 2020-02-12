@@ -29,7 +29,6 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Rubáiyát of Omar Khayyám</dc:title>
 		<meta property="file-as" refines="#title">Rubaiyat of Omar Khayyam, The</meta>
-		<meta property="alternate-script" refines="#title" xml:lang="fa">رباعیات عمر خیام</meta>
 		<dc:subject id="subject-1">Persian poetry -- Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2010105564</meta>
