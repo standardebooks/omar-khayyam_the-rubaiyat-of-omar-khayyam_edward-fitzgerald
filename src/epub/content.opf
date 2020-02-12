@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald/edmund-dulac</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/omar-khayyam/the-rubaiyat-of-omar-khayyam/edward-fitzgerald</dc:identifier>
 		<dc:date>2014-05-25T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">2014-05-25T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -39,14 +39,14 @@
 			&lt;p&gt;Omar Khayyám was a medieval Iranian mathemetician, philosopher, scholar, and poet. He was thought to have composed over 1,000 &lt;i&gt;rubáiyát&lt;/i&gt;, or quatrains, in his lifetime. Many different scholars have translated selections of Khayyám’s quatrains, but Edward FitzGerald’s translation remains the most beloved.&lt;/p&gt;
 			&lt;p&gt;FitzGerald’s translation is interesting in that it isn’t a &lt;em&gt;literal&lt;/em&gt; translation—rather, FitzGerald took significant artistic license in his interpretation. Thus it’s tough to say if we should call this a translation of the &lt;i&gt;Rubáiyát&lt;/i&gt;, or poems by FitzGerald based on or inspired by Khayyám’s quatrains.&lt;/p&gt;
 			&lt;p&gt;Whatever we call it, this translation is a bright and lyrical celebration of the joys and beauties of everyday life. FitzGerald’s work has remained popular for hundreds of years precisely because of its uplifting and wonderous quality.&lt;/p&gt;
-			&lt;p&gt;This ebook edition contains the first, second, and fifth editions of FitzGerald’s translations. The first and second editions differ greatly, while the third and fourth editions are very similar to the fifth. This ebook also contains twenty illustrations by Edmund Dulac.&lt;/p&gt;
+			&lt;p&gt;This ebook is based on the fifth edition, which is very similar to the fourth edition, the last edition to be published in FitzGerald’s lifetime. The fifth edition was published posthumously based on FitzGerald’s notes.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/35260</dc:source>
 		<meta property="se:word-count">13136</meta>
 		<meta property="se:reading-ease.flesch">60.79</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/omar-khayyam_the-rubaiyat-of-omar-khayyam_edward-fitzgerald_edmund-dulac</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/omar-khayyam_the-rubaiyat-of-omar-khayyam_edward-fitzgerald</meta>
 		<dc:creator id="author">Omar Khayyám</dc:creator>
 		<meta property="file-as" refines="#author">Khayyám, Omar</meta>
 		<meta property="alternate-script" refines="#author">عمر خیام</meta>
@@ -64,7 +64,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Dulac</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n50030524</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<meta property="role" refines="#artist" scheme="marc:relators">ill</meta>
 		<dc:contributor id="transcriber-1">Fritz Ohrenschall</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Ohrenschall, Fritz</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
@@ -92,31 +91,10 @@
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
-		<item href="images/quatrain-1-11.jpg" id="quatrain-1-11.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-1-24.jpg" id="quatrain-1-24.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-1-42.jpg" id="quatrain-1-42.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-1-46.jpg" id="quatrain-1-46.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-1-72.jpg" id="quatrain-1-72.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-1.jpg" id="quatrain-2-1.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-11.jpg" id="quatrain-2-11.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-20.jpg" id="quatrain-2-20.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-22.jpg" id="quatrain-2-22.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-40.jpg" id="quatrain-2-40.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-44.jpg" id="quatrain-2-44.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-55.jpg" id="quatrain-2-55.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-57.jpg" id="quatrain-2-57.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-68.jpg" id="quatrain-2-68.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-70.jpg" id="quatrain-2-70.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-88.jpg" id="quatrain-2-88.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-104.jpg" id="quatrain-2-104.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-2-110.jpg" id="quatrain-2-110.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-5-14.jpg" id="quatrain-5-14.jpg" media-type="image/jpeg"/>
-		<item href="images/quatrain-5-33.jpg" id="quatrain-5-33.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/preface.xhtml" id="preface.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/the-rubaiyat-of-omar-khayyam.xhtml" id="the-rubaiyat-of-omar-khayyam.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
@@ -128,7 +106,6 @@
 		<itemref idref="preface.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="the-rubaiyat-of-omar-khayyam.xhtml"/>
-		<itemref idref="loi.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>

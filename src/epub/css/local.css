@@ -44,24 +44,8 @@ section[epub|type~="conclusion"]{
 	page-break-before: always;
 	margin-top: 4em;
 	text-align: center;
-
 }
 
 abbr.era{
 	font-variant: all-small-caps;
-}
-
-figure.full-page{
-	margin: 0;
-	max-height: 100%;
-	page-break-before: always;
-	page-break-after: always;
-	page-break-inside: avoid;
-	text-align: center;
-}
-
-figure img{
-	display: block;
-	margin: auto;
-	max-width: 100%;
 }
