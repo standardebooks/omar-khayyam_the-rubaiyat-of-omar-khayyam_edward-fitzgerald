@@ -57,7 +57,9 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">https://en.wikipedia.org/wiki/Edward_FitzGerald_(poet)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n80126218</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<meta property="role" refines="#translator" scheme="marc:relators">wpr</meta>
+		<dc:contributor id="writer-of-preface">Robert Arnot</dc:contributor>
+		<meta property="file-as" refines="#writer-of-preface">Arnot, Robert</meta>
+		<meta property="role" refines="#writer-of-preface" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Edmund Dulac</dc:contributor>
 		<meta property="file-as" refines="#artist">Dulac, Edmund</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Edmund_Dulac</meta>
