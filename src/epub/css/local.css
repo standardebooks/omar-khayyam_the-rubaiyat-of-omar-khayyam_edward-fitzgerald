@@ -49,3 +49,7 @@ section[epub|type~="conclusion"]{
 abbr.era{
 	font-variant: all-small-caps;
 }
+
+b{
+	text-transform: uppercase;
+}
