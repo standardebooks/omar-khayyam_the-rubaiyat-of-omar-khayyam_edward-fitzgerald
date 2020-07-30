@@ -7,7 +7,7 @@ footer{
 }
 
 article{
-	page-break-after: always;
+	break-after: page;
 	text-align: center;
 }
 
@@ -41,7 +41,7 @@ article p{
 
 section[epub|type~="conclusion"]{
 	font-variant: small-caps;
-	page-break-before: always;
+	break-before: page;
 	margin-top: 4em;
 	text-align: center;
 }
