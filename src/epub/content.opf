@@ -43,8 +43,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/35260</dc:source>
 		<dc:source>https://books.google.com/books?id=LzVSlGaQZ38C</dc:source>
-		<meta property="se:word-count">7034</meta>
-		<meta property="se:reading-ease.flesch">58.96</meta>
+		<meta property="se:word-count">7032</meta>
+		<meta property="se:reading-ease.flesch">58.86</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Rubaiyat_of_Omar_Khayyam</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/omar-khayyam_the-rubaiyat-of-omar-khayyam_edward-fitzgerald</meta>
 		<dc:creator id="author">Omar Khayyám</dc:creator>

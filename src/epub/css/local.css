@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-footer{
-	margin-top: 1em;
-	text-align: right;
-}
-
 article{
 	break-after: page;
 	text-align: center;
@@ -52,8 +47,4 @@ abbr.era{
 
 b{
 	text-transform: uppercase;
-}
-
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
 }
