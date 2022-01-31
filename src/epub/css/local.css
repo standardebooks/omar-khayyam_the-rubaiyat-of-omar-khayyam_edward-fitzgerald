@@ -35,8 +35,8 @@ article p{
 }
 
 section[epub|type~="conclusion"]{
-	font-variant: small-caps;
 	break-before: page;
+	font-variant: small-caps;
 	margin-top: 4em;
 	text-align: center;
 }
