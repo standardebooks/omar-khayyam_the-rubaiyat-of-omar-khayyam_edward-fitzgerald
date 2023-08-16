@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="the-rubaiyat-of-omar-khayyam.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-003</code>
 			<reason>Matched text is not a typo.</reason>
 		</ignore>
 	</file>
