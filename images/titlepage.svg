@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 690">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1400 703">
 	<title>The titlepage for the Standard Ebooks edition of The Rubáiyát of Omar Khayyám, by Omar Khayyám. Translated by Edward FitzGerald</title>
 	<style type="text/css">
 		text{
@@ -28,8 +28,8 @@
 		}
 	</style>
 	<text class="title" x="700" y="130">THE RUBÁIYÁT</text>
-	<text class="title" x="700" y="230">OF OMAR KHAYYÁM</text>
-	<text class="author" x="700" y="390">OMAR KHAYYÁM</text>
-	<text class="contributor-descriptor" x="700" y="580">translated by</text>
-	<text class="contributor" x="700" y="640">EDWARD FITZGERALD</text>
+	<text class="title" x="700" y="243">OF OMAR KHAYYÁM</text>
+	<text class="author" x="700" y="403">OMAR KHAYYÁM</text>
+	<text class="contributor-descriptor" x="700" y="593">translated by</text>
+	<text class="contributor" x="700" y="653">EDWARD FITZGERALD</text>
 </svg>
