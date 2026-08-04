@@ -34,7 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2010105564</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.</dc:abstract>
+		<meta property="schema:abstract">Three volumes of lyrical quatrains about the joys of living, the meaning of existence, and what it means to lead a happy life.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/omar-khayyam"&gt;Omar Khayyám&lt;/a&gt; was a medieval Iranian mathematician, philosopher, scholar, and poet. He was thought to have composed over 1,000 &lt;i&gt;rubáiyát&lt;/i&gt;, or quatrains, in his lifetime. Many different scholars have translated selections of Khayyám’s quatrains, but Edward FitzGerald’s translation remains the most beloved.&lt;/p&gt;
 			&lt;p&gt;FitzGerald’s translation is interesting in that it isn’t a &lt;em&gt;literal&lt;/em&gt; translation—rather, FitzGerald took significant artistic license in his interpretation. Thus it’s tough to say if we should call this a translation of the &lt;i&gt;Rubáiyát&lt;/i&gt;, or poems by FitzGerald based on or inspired by Khayyám’s quatrains.&lt;/p&gt;
