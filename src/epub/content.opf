@@ -71,7 +71,7 @@
 		<meta property="file-as" refines="#transcriber-1">Ohrenschall, Fritz</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Sania Ali Mirza</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Ali Mirza, Sania</meta>
+		<meta property="file-as" refines="#transcriber-2">Mirza, Sania Ali</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
